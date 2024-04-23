@@ -1,2 +1,2 @@
-# team-icons
-Team Arena Team Icons by Kr3m
+# Q3A-Q3TA Assets by Kr3m
+Upscaled assets by Kr3m
