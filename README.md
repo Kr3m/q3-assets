@@ -1,2 +1,2 @@
 # team-icons
-Team Arena Team Icons
+Team Arena Team Icons by Kr3m
